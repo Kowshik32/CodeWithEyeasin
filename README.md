@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://img.icons8.com/emoji/48/undefined/waving-hand-emoji.png">, I'm Eyeasin Arafat</h1>
 <h3 align="center">I'm passionate About Programming.</h3>
